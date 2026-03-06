@@ -80,6 +80,8 @@ dependencies {
 
     // > Kotlin serialization
     implementation(libs.kotlinx.serialization.json)
+    // > Kotlin Datetime
+    implementation(libs.kotlinx.datetime)
     // > Coil
     implementation(libs.coil.compose)
     // > Retrofit
